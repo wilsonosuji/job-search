@@ -54,6 +54,6 @@ Demo : https://j0b-search.herokuapp.com/
 
 ## Files 
 [Front-end templates](https://github.com/AnonC0DER/JobSearch/tree/main/templates) <br>
-[Front Css](https://github.com/AnonC0DER/JobSearch/tree/main/static/css) <br>
-[Front Js](https://github.com/AnonC0DER/JobSearch/tree/main/static/js) <br>
+[Front CSS](https://github.com/AnonC0DER/JobSearch/tree/main/static/css) <br>
+[Front Javascript](https://github.com/AnonC0DER/JobSearch/tree/main/static/js) <br>
 echo # job-search
